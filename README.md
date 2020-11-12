@@ -23,6 +23,9 @@ Uppsala University **IT Department** Thesis - Application Checklist
 - The reviewer and the examiner must be two different persons,
 - The supervisor and the examiner can be the same person.
 
+**Grading Creteria**
+
+- Check from [there](https://www.it.uu.se/student/thesis_project/master/bedomning-eng.pdf) 
 ----
 
 ## Application List 
