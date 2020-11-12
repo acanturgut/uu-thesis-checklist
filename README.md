@@ -28,7 +28,7 @@ Uppsala University **IT Department** Thesis - Application Checklist
 - Check from [here](https://www.it.uu.se/student/thesis_project/master/bedomning-eng.pdf) 
 ----
 
-## Application List 
+## Application Checklist 
 
 - [ ] Find thesis project from company/university
 - [ ] Fill the form registration [form](https://www.it.uu.se/student/thesis_project/master/exjobben.pdf)
