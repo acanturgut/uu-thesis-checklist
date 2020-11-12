@@ -2,7 +2,7 @@
 Uppsala University **IT Department** Thesis - Application Checklist
 
 
-## Before you start 
+## 🛑 Before you start 
 
 - This document created for personal use only. It may contain wrong information. 
 - Check original [web page](https://www.it.uu.se/student/thesis_project/master) before start. 
@@ -28,7 +28,7 @@ Uppsala University **IT Department** Thesis - Application Checklist
 - Check from [here](https://www.it.uu.se/student/thesis_project/master/bedomning-eng.pdf) 
 ----
 
-## Application Checklist 
+## ✅ Application Checklist 
 
 - [ ] Find thesis project from company/university
 - [ ] Fill the form registration [form](https://www.it.uu.se/student/thesis_project/master/exjobben.pdf)
@@ -49,7 +49,7 @@ GOOD LUCK :)
 
 ----
 
-## Useful Links
+## 🔗 Useful Links
 
 - [To start a thesis project](https://www.it.uu.se/student/thesis_project/master/start)
 
