@@ -15,7 +15,7 @@ Uppsala University **IT Department** Thesis - Application Checklist
 - contain too much descriptive moments or
 - offers too little of analysis or - constructive thinking
 
- **Check Roles from [there](https://www.it.uu.se/student/thesis_project/master/roles#roller)**
+ **Check roles from [here](https://www.it.uu.se/student/thesis_project/master/roles#roller)**
 
 ⚠️ Warning about roles
 
@@ -25,7 +25,7 @@ Uppsala University **IT Department** Thesis - Application Checklist
 
 **Grading Creteria**
 
-- Check from [there](https://www.it.uu.se/student/thesis_project/master/bedomning-eng.pdf) 
+- Check from [here](https://www.it.uu.se/student/thesis_project/master/bedomning-eng.pdf) 
 ----
 
 ## Application List 
