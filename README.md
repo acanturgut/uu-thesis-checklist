@@ -32,7 +32,7 @@ Uppsala University **IT Department** Thesis - Application Checklist
 
 - [ ] Find thesis project from company/university
 - [ ] Fill the form registration [form](https://www.it.uu.se/student/thesis_project/master/exjobben.pdf)
-- [ ] Fill the specification document with company/professor [more info](https://www.it.uu.se/student/thesis_project/master/specification) [even more info -Roles-](https://www.it.uu.se/student/thesis_project/master/roles)
+- [ ] Fill the specification document with company/professor [more info](https://www.it.uu.se/student/thesis_project/master/specification) - [even more info -Roles-](https://www.it.uu.se/student/thesis_project/master/roles)
 - [ ] Fill [collaboration agreement](https://mp.uu.se/documents/432512/83142433/Collaboration+agreement+for+degree+projects+at+Uppsala+University+in+collaboration+with+a+third+party+template+legal+affairs+division+2017.docx/78a0dcc2-34a4-6051-011d-1625bbafba4d) with company [more info](https://mp.uu.se/en/web/info/undervisa/juridik/samarbetsavtal) [optional]
 - [ ] Send specification form to coordinator for finding reviewer.
 - [ ] Complete registration form (fill reviewer part)
