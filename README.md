@@ -1,6 +1,6 @@
 # Checklist for thesis application
 
-Uppsala University **IT Department** Thesis - Application Checklist 
+Uppsala University **IT Department** Thesis - Application Checklist
 
 ## 🛑 Before you start
 
