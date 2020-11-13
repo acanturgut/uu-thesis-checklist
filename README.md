@@ -56,6 +56,6 @@ GOOD LUCK :)
 
 - [On Thesis Writing](https://www.it.uu.se/student/thesis_project/master/academic_writing.pdf)
 
-### License
+### 📘 License
 
 Unlicense License
