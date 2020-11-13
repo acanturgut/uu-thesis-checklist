@@ -1,4 +1,4 @@
-# Check list for thesis application
+# Checklist for thesis application
 
 Uppsala University **IT Department** Thesis - Application Checklist
 
