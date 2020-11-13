@@ -56,3 +56,7 @@ GOOD LUCK :)
 - [Compulsory Start-up Meeting Presentation](https://www.it.uu.se/student/thesis_project/master/Start_presentation_201005.pdf)
 
 - [On Thesis Writing](https://www.it.uu.se/student/thesis_project/master/academic_writing.pdf)
+
+## License
+
+Unlicense License
