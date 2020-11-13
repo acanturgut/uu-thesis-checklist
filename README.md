@@ -1,11 +1,11 @@
 # Check list for thesis application
+
 Uppsala University **IT Department** Thesis - Application Checklist
 
+## 🛑 Before you start
 
-## 🛑 Before you start 
-
-- This document created for personal use only. It may contain wrong information. 
-- Check original [web page](https://www.it.uu.se/student/thesis_project/master) before start. 
+- This document created for personal use only. It may contain wrong information.
+- Check original [web page](https://www.it.uu.se/student/thesis_project/master) before start.
 
 **An unsuitable thesis project can ...**
 
@@ -15,7 +15,7 @@ Uppsala University **IT Department** Thesis - Application Checklist
 - contain too much descriptive moments or
 - offers too little of analysis or - constructive thinking
 
- **Check roles from [here](https://www.it.uu.se/student/thesis_project/master/roles#roller)**
+  **Check roles from [here](https://www.it.uu.se/student/thesis_project/master/roles#roller)**
 
 ⚠️ Warning about roles
 
@@ -25,10 +25,11 @@ Uppsala University **IT Department** Thesis - Application Checklist
 
 **Grading Creteria**
 
-- Check from [here](https://www.it.uu.se/student/thesis_project/master/bedomning-eng.pdf) 
+- Check from [here](https://www.it.uu.se/student/thesis_project/master/bedomning-eng.pdf)
+
 ---
 
-## ✅ Application Checklist 
+## ✅ Application Checklist
 
 - [ ] Find thesis project from company/university
 - [ ] Fill the form registration [form](https://www.it.uu.se/student/thesis_project/master/exjobben.pdf)
@@ -43,8 +44,8 @@ Uppsala University **IT Department** Thesis - Application Checklist
 - Courses you take (Official Transcript you can find it from Ladok)- Specification
 - [ ] Wait for answer from university
 - [ ] Registering course done by automatically by registration (?)
-- [ ] Start thesis ASAP 
-      
+- [ ] Start thesis ASAP
+
 GOOD LUCK :)
 
 ---
