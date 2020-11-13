@@ -1,5 +1,4 @@
 # Check list for thesis application
-![GitHub watchers](https://img.shields.io/github/watchers/acanturgut/uu_thesis_checklist?style=social)
 
 Uppsala University **IT Department** Thesis - Application Checklist
 
