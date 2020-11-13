@@ -7,7 +7,7 @@ Uppsala University **IT Department** Thesis - Application Checklist
 - This document created for personal use only (It may contain wrong information)
 - Check original [web page](https://www.it.uu.se/student/thesis_project/master) before start
 
-**An unsuitable thesis project can ...**
+**An unsuitable thesis project might ...**
 
 - be too big or to small
 - be vaguely delimited
