@@ -1,0 +1,4 @@
+{
+  "extends": "base-config.json",
+  "MD013": { "line_length": 300 }
+}
