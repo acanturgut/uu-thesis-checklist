@@ -26,7 +26,7 @@ Uppsala University **IT Department** Thesis - Application Checklist
 **Grading Creteria**
 
 - Check from [here](https://www.it.uu.se/student/thesis_project/master/bedomning-eng.pdf) 
-----
+---
 
 ## ✅ Application Checklist 
 
@@ -47,7 +47,7 @@ Uppsala University **IT Department** Thesis - Application Checklist
       
 GOOD LUCK :)
 
-----
+---
 
 ## 🔗 Useful Links
 
