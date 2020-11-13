@@ -2,9 +2,9 @@
 
 Uppsala University **IT Department** Thesis - Application Checklist
 
-## 1.0.0 🛑 Before you start
+## 🛑 Before you start
 
-- This document created for personal use only (It may contain wrong information) 
+- This document created for personal use only (It may contain wrong information)
 - Check original [web page](https://www.it.uu.se/student/thesis_project/master) before start
 
 **An unsuitable thesis project can ...**
@@ -23,13 +23,11 @@ Uppsala University **IT Department** Thesis - Application Checklist
 - The reviewer and the examiner must be two different persons
 - The supervisor and the examiner can be the same person
 
-**Grading Creteria**
-
-- Check from [here](https://www.it.uu.se/student/thesis_project/master/bedomning-eng.pdf)
+**Grading Creteria [here](https://www.it.uu.se/student/thesis_project/master/bedomning-eng.pdf)** 
 
 ---
 
-## 2.0.0 ✅ Application Checklist
+### ✅ Application Checklist
 
 - [ ] Find thesis project from company/university
 - [ ] Fill the form registration [form](https://www.it.uu.se/student/thesis_project/master/exjobben.pdf)
@@ -50,7 +48,7 @@ GOOD LUCK :)
 
 ---
 
-## 3.0.0 🔗 Useful Links
+### 🔗 Useful Links
 
 - [To start a thesis project](https://www.it.uu.se/student/thesis_project/master/start)
 
@@ -58,6 +56,6 @@ GOOD LUCK :)
 
 - [On Thesis Writing](https://www.it.uu.se/student/thesis_project/master/academic_writing.pdf)
 
-## 4.0.0 License
+### License
 
 Unlicense License
