@@ -28,7 +28,3 @@ jobs:
           rules: '/lint/rules/changelog.js'
           config: '/lint/config/changelog.yml'
           args: './CHANGELOG.md'
-
-      # Runs a single command using the runners shell
-      - name: Run a one-line script
-        run: echo Lint Done!
