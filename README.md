@@ -9,7 +9,7 @@ Uppsala University **IT Department** Thesis - Application Checklist
 
 **An unsuitable thesis project can ...**
 
-- be too big or to small
+- be too big or to small 
 - be vaguely delimited
 - contain too much implementation work
 - contain too much descriptive moments or
