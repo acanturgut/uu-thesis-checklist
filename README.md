@@ -56,8 +56,10 @@ Uppsala University **IT Department** Thesis - Application Checklist
 ### During Thesis
 
 **Stay in contact with your reviewer to get feedback**
-–  [ ] About once per month or so (send progress reports) – Mid course meeting (meet person to person)
-–  [ ] If problems (delays) occur
+
+– [ ] About once per month or so (send progress reports)
+– [ ] Mid course meeting (meet person to person)
+– [ ] If problems (delays) occur
 
 ⚠️ Ensure academic standard on your thesis**
 >Not always what an external company requests, get feedback from your reviewer (see above)
@@ -94,7 +96,7 @@ Uppsala University **IT Department** Thesis - Application Checklist
 
 **Opposition (anytime, but preferable same day**
 
-- Understanding and critical assessment of other work 
+- Understanding and critical assessment of other work
 - Discussion and questions at a relevant level
 - Constructive feedback
 
@@ -109,3 +111,5 @@ Uppsala University **IT Department** Thesis - Application Checklist
 ### 📘 License
 
 Unlicense License
+
+### Any questions you can open issue!
