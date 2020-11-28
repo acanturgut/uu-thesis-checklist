@@ -1,4 +1,4 @@
-# Checklist for thesis application
+# Checklist for thesis checklist
 
 Uppsala University **IT Department** Thesis - Application Checklist
 
@@ -46,7 +46,7 @@ GOOD LUCK :)
 
 ---
 
-Next Step 
+**Next Step**
 
 - [ ] Wait for answer from university
 - [ ] Registering course done by automatically by registration (?)
