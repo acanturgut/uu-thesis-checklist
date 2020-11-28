@@ -30,7 +30,7 @@ Uppsala University **IT Department** Thesis - Application Checklist
 
 - [ ] Find thesis project from company/university
 - [ ] Fill the form registration [form](https://www.it.uu.se/student/thesis_project/master/exjobben.pdf)
->⚠️ If you cannot find reviwer, you can make left empty in registration document. 
+>⚠️ If you cannot find reviwer, you canleft empty reviewer part in registration document. 
 
 - [ ] Fill the specification document with company/professor [more info](https://bit.ly/38EgfO4) - [even more info -Roles-](https://bit.ly/2Iwa5Fg)
 - [ ] Fill [collaboration agreement](https://bit.ly/38KL6bM) with company [more info](https://bit.ly/2UmyzmD) [optional]
