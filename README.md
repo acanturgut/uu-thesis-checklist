@@ -34,9 +34,9 @@ Uppsala University **IT Department** Thesis - Application Checklist
 
 - [ ] Fill the specification document with company/professor [more info](https://bit.ly/38EgfO4) - [even more info -Roles-](https://bit.ly/2Iwa5Fg)
 
-````
-When you have these documents, you contact the thesis coordinator. His first task is to find a reviewer for you, and make sure this person signs the form too. You can reach the thesis coordinator by email to exjobb@it.uu.se.
-````
+
+>When you have these documents, you contact the thesis coordinator. His first task is to find a reviewer for you, and make sure this person signs the form too. You can reach the thesis coordinator by email to exjobb@it.uu.se.
+
 
 - [ ] Fill [collaboration agreement](https://bit.ly/38KL6bM) with company [more info](https://bit.ly/2UmyzmD) [optional]
 
