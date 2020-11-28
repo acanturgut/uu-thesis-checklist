@@ -56,10 +56,9 @@ Uppsala University **IT Department** Thesis - Application Checklist
 ### During Thesis
 
 **Stay in contact with your reviewer to get feedback**
-
 - About once per month or so (send progress reports)
-– Mid course meeting (meet person to person)
-– If problems (delays) occur
+- Mid course meeting (meet person to person)
+- If problems (delays) occur
 
 **⚠️ Ensure academic standard on your thesis**
 >Not always what an external company requests, get feedback from your reviewer (see above)
