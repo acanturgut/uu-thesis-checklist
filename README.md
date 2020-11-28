@@ -36,11 +36,11 @@ Uppsala University **IT Department** Thesis - Application Checklist
 - [ ] Send specification form to coordinator for finding reviewer
 - [ ] Complete registration form (fill reviewer part)
 - [ ] Send Below documents for registering course
-- Registration form [Sign, Supervisor, Reviewer]
-- Proof of "you attend one of the **compulsory start-up meetings**"
-- Collaboration agreement [optional]
-- Courses you take (Official Transcript you can find it from Ladok)
-- Specification document
+  - [ ] Registration form [Sign, Supervisor, Reviewer]
+  - [ ] Proof of "you attend one of the **compulsory start-up meetings**"
+  - [ ] Collaboration agreement [optional]
+  - [ ] Courses you take (Official Transcript you can find it from Ladok)
+  - [ ] Specification document
 - [ ] Wait for answer from university
 - [ ] Registering course done by automatically by registration (?)
 - [ ] Start thesis ASAP
