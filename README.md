@@ -34,7 +34,6 @@ Uppsala University **IT Department** Thesis - Application Checklist
 
 - [ ] Fill the specification document with company/professor [more info](https://bit.ly/38EgfO4) - [even more info -Roles-](https://bit.ly/2Iwa5Fg)
 - [ ] Fill [collaboration agreement](https://bit.ly/38KL6bM) with company [more info](https://bit.ly/2UmyzmD) [optional]
-
 --- 
 
 **Send Below documents for registering course**
@@ -54,11 +53,50 @@ Uppsala University **IT Department** Thesis - Application Checklist
 - [ ] Registering course done by automatically by registration (?)
 - [ ] Start writing report ASAP. 
 
-### Starting Thesis Project
+### During Thesis
+
+**Stay in contact with your reviewer to get feedback**
+–  [] About once per month or so (send progress reports) – Mid course meeting (meet person to person)
+–  [] If problems (delays) occur
+
+⚠️ Ensure academic standard on your thesis**
+>Not always what an external company requests, get feedback from your reviewer (see above)
 
 ### Thesis Report
 
-### Thesis Presentation
+**What is in a report?**
+- Background and description of the problem
+(formulate the research questions you want to answer)
+- Methods and techniques used
+- Relevant (related) theory, research and development
+- Description of your own work
+- Results, Evaluation, Analysis, Verification, Demonstration
+- Conclusions including future work
+
+**Assestment of the report**
+- Disposition and quality of expression
+- Knowledge of prior work and development
+- Technical content and complexity
+- Elements of own work
+  - elements of creativity (literally: what did you create?)
+- Demonstrated depth of understanding
+- Evidence of critical evaluation
+- Guidelines for future work
+- Conclusions, including objective reflections
+
+### Thesis Presentation/Opposition
+
+**Final presentation (prel report >80%, approval of reviewer)**
+
+- Delivery (eye contact, variation in voice, clear slides)
+- Content (subject and purpose, knowledge, questions)
+- Enthusiasm (show interest, audience understanding)
+
+**Opposition (anytime, but preferable same day**
+
+- Understanding and critical assessment of other work 
+- Discussion and questions at a relevant level
+- Constructive feedback
 
 ### 🔗 Useful Links
 
