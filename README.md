@@ -46,7 +46,7 @@ GOOD LUCK :)
 
 ---
 
-**Next Step**
+### ⏩ Next Step
 
 - [ ] Wait for answer from university
 - [ ] Registering course done by automatically by registration (?)
