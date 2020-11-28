@@ -33,7 +33,7 @@ Uppsala University **IT Department** Thesis - Application Checklist
 - [ ] Fill the form registration [form](https://www.it.uu.se/student/thesis_project/master/exjobben.pdf)
 - [ ] Fill the specification document with company/professor [more info](https://bit.ly/38EgfO4) - [even more info -Roles-](https://bit.ly/2Iwa5Fg)
 - [ ] Fill [collaboration agreement](https://bit.ly/38KL6bM) with company [more info](https://bit.ly/2UmyzmD) [optional]
-- [ ] Send specification form to coordinator for finding reviewer
+- [ ] If you cannot find reviwer, you can send specification form to coordinator(exjobb@it.uu.se) for finding reviewer. 
 - [ ] Complete registration form (fill reviewer part)
 - [ ] Send Below documents for registering course
   - [ ] Registration form [Sign, Supervisor, Reviewer]
@@ -41,13 +41,16 @@ Uppsala University **IT Department** Thesis - Application Checklist
   - [ ] Collaboration agreement [optional]
   - [ ] Courses you take (Official Transcript you can find it from Ladok)
   - [ ] Specification document
-- [ ] Wait for answer from university
-- [ ] Registering course done by automatically by registration (?)
-- [ ] Start thesis ASAP
 
 GOOD LUCK :)
 
 ---
+
+Next Step 
+
+- [ ] Wait for answer from university
+- [ ] Registering course done by automatically by registration (?)
+- [ ] Start thesis ASAP
 
 ### 🔗 Useful Links
 
