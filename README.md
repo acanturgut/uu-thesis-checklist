@@ -37,7 +37,7 @@ Uppsala University **IT Department** Thesis - Application Checklist
 
 --- 
 
-- [ ] Send Below documents for registering course
+**Send Below documents for registering course**
 
 >When you have these documents, you contact the thesis coordinator. His first task is to find a reviewer for you, and make sure this person signs the form too. You can reach the thesis coordinator by email to exjobb@it.uu.se.
 
